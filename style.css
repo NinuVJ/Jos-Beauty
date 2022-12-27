@@ -1,0 +1,11 @@
+ #cimage1,#cimage2,#cimage3{
+   height: 600px;
+
+}
+a{
+    text-decoration: none;
+}
+p{
+    font-size: large;
+    text-align: center;
+}
